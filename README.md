@@ -4,7 +4,7 @@ A clean and simple portfolio template built with plain HTML, CSS and JavaScript.
 
 ## Preview
 
-[![imgur](https://i.gyazo.com/ce6744fdfa550b4d52be2304b6e5dc77.mp4)](https://github.com/arvindx)
+[![imgur](https://imgur.com/g82kpxm)](https://github.com/arvindx)
 
 [See Live](https://arvindx.github.io/)
 
