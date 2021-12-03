@@ -4,9 +4,9 @@ A clean and simple portfolio template built with plain HTML, CSS and JavaScript.
 
 ## Preview
 
-[![imgur]()](https://github.com/arvindx)
+[Preview](https://imgur.com/g82kpxm)
 
-[See Live](https://rajshekhar26.github.io/cleanfolio-minimal)
+[See Live](https://arvindx.github.io/)
 
 ## License
 
